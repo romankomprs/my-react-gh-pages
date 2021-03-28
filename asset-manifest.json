@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/romankomprs/my-react-gh-pages/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/romankomprs/my-react-gh-pages/static/js/main.88b103cc.chunk.js",
+    "main.js.map": "/romankomprs/my-react-gh-pages/static/js/main.88b103cc.chunk.js.map",
+    "runtime-main.js": "/romankomprs/my-react-gh-pages/static/js/runtime-main.9c1251e4.js",
+    "runtime-main.js.map": "/romankomprs/my-react-gh-pages/static/js/runtime-main.9c1251e4.js.map",
+    "static/js/2.f878a4ee.chunk.js": "/romankomprs/my-react-gh-pages/static/js/2.f878a4ee.chunk.js",
+    "static/js/2.f878a4ee.chunk.js.map": "/romankomprs/my-react-gh-pages/static/js/2.f878a4ee.chunk.js.map",
+    "static/js/3.bbe5a3ba.chunk.js": "/romankomprs/my-react-gh-pages/static/js/3.bbe5a3ba.chunk.js",
+    "static/js/3.bbe5a3ba.chunk.js.map": "/romankomprs/my-react-gh-pages/static/js/3.bbe5a3ba.chunk.js.map",
+    "index.html": "/romankomprs/my-react-gh-pages/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/romankomprs/my-react-gh-pages/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.f878a4ee.chunk.js.LICENSE.txt": "/romankomprs/my-react-gh-pages/static/js/2.f878a4ee.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/romankomprs/my-react-gh-pages/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c1251e4.js",
+    "static/js/2.f878a4ee.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.88b103cc.chunk.js"
+  ]
+}
